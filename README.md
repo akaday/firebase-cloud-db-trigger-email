@@ -34,9 +34,9 @@ This sample comes with a web-based UI for testing the function. To test it out:
  1. Open the app using `firebase open hosting:site`, this will open a browser.
  1. Try add new child in your database `users`. The example like this : 
  `{
-  "123123" : {
+   "123123" : {
     "displayName" : "Cakra Danu Sedayu",
     "email" : "cakra.ds@gmail.com"
-  }
+    }
 }`
 
